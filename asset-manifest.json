@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spa-react-food/static/css/main.e30e15d3.css",
-    "main.js": "/spa-react-food/static/js/main.f34a2bbd.js",
+    "main.js": "/spa-react-food/static/js/main.88c26df5.js",
     "index.html": "/spa-react-food/index.html",
     "main.e30e15d3.css.map": "/spa-react-food/static/css/main.e30e15d3.css.map",
-    "main.f34a2bbd.js.map": "/spa-react-food/static/js/main.f34a2bbd.js.map"
+    "main.88c26df5.js.map": "/spa-react-food/static/js/main.88c26df5.js.map"
   },
   "entrypoints": [
     "static/css/main.e30e15d3.css",
-    "static/js/main.f34a2bbd.js"
+    "static/js/main.88c26df5.js"
   ]
 }
