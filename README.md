@@ -2,7 +2,7 @@
 
 Simple SPA project to practice and improve knowledge of React-router, React Hooks.
 Using:
-Api: themealdb.com
+themealdb.com
 materializecss.com
 React Hooks
 React-Router
